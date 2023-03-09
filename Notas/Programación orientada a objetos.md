@@ -1,0 +1,1 @@
+**Definición:** Es una forma de implementación en la cual los programas se organizan como una colección de [[Objeto]]s, cada cual representando una instancia de una [[Clase]] y todas éstas pertenecen a una jerarquía, unida a través de relaciones de herencia.

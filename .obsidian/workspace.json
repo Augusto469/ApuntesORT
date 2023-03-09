@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laboratorio 1 teórico DA1.md",
+                "file": "Notas/Laboratorio 1 teórico DA1.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,19 +23,40 @@
             "id": "7ec4b84a950f5d95",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Basura/canvas de prueba.canvas",
-                "viewState": {
-                  "x": 40.5,
-                  "y": -65.5,
-                  "zoom": -1.1059289869164968
-                }
+                "file": "Notas/Resolver conflictos de la manera correcta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef89fdef533f575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Relaciones entre clases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "516b944f527c9558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Resolver conflictos de la manera correcta.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basura/canvas de prueba.canvas",
+                "file": "Notas/Resolver conflictos de la manera correcta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basura/canvas de prueba.canvas",
+                "file": "Notas/Resolver conflictos de la manera correcta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basura/canvas de prueba.canvas"
+                "file": "Notas/Resolver conflictos de la manera correcta.md"
               }
             }
           }
@@ -162,31 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ec4b84a950f5d95",
+  "active": "ac937f8de7776db4",
   "lastOpenFiles": [
-    "Laboratorio 1 teórico DA1.md",
+    "Notas/Relaciones entre clases.md",
+    "Notas/Resolver conflictos de la manera correcta.md",
     "Basura/canvas de prueba.canvas",
-    "Horarios del semestre.md",
-    "Objeto.md",
-    "Proceso de software.md",
-    "Programación orientada a objetos.md",
-    "Relaciones entre clases.md",
-    "Resolver conflictos de la manera correcta.md",
+    "Notas",
+    "Notas/Laboratorio 1 teórico DA1.md",
+    "Notas/Horarios del semestre.md",
+    "Notas/Objeto.md",
+    "Notas/Proceso de software.md",
+    "Notas/Programación orientada a objetos.md",
     "Notas a terminar/Notas a terminar.md",
-    "Adornos en UML.md",
+    "Notas/Adornos en UML.md",
     "Pendientes/Pendientes.md",
-    "Diferencia entre identidad de un objeto y la igualdad de dos objetos.md",
-    "Clase.md",
-    "Clase de representación en UML.md",
+    "Notas/Diferencia entre identidad de un objeto y la igualdad de dos objetos.md",
+    "Notas/Clase.md",
+    "Notas/Clase de representación en UML.md",
     "Imágenes",
     "Imágenes/Clase de representación en UML.png",
-    "Definición de modelo.md",
-    "Ciclo de vida del software.md",
-    "Diferencia entre análisis y diseño.md",
-    "Analizar un problema.md",
-    "Diseñar la solución de un problema.md",
-    "Ciclo de vida iterativo e incremental.md",
-    "Ciclo de vida en cascada.md",
+    "Notas/Definición de modelo.md",
+    "Notas/Ciclo de vida del software.md",
+    "Notas/Diferencia entre análisis y diseño.md",
+    "Notas/Analizar un problema.md",
+    "Notas/Diseñar la solución de un problema.md",
+    "Notas/Ciclo de vida iterativo e incremental.md",
+    "Notas/Ciclo de vida en cascada.md",
     "Notas a terminar",
     "Pendientes",
     "Basura",
