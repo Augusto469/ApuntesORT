@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"cdd1bb1412f2a0f2","x":-660,"y":-400,"width":1401,"height":669,"color":"2","type":"group","label":"esto es un grupo (?)"},
+		{"id":"55f55bc088098b52","x":-640,"y":-260,"width":580,"height":421,"color":"3","type":"link","url":"https://www.youtube.com"},
+		{"id":"5e3379f69351fb2f","x":140,"y":-380,"width":250,"height":60,"color":"4","type":"text","text":"texto de prueba jeje\npodes poner color a cada caja"},
+		{"id":"ae473a9aa87b4f64","x":321,"y":-151,"width":400,"height":400,"color":"3","type":"file","file":"Laboratorio 1 teórico DA1.md"}
+	],
+	"edges":[
+		{"id":"807855d1d8717e09","fromNode":"55f55bc088098b52","fromSide":"right","toNode":"5e3379f69351fb2f","toSide":"bottom","label":"flecha curiosa"},
+		{"id":"07d248fb2d604496","fromNode":"55f55bc088098b52","fromSide":"right","toNode":"ae473a9aa87b4f64","toSide":"left","color":"1","label":"nota random"}
+	]
+}

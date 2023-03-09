@@ -1,0 +1,1 @@
+Define las actividades y herramientas necesarias para **transformar los requerimientos** de un cliente en **productos de software**. (Jacobson)

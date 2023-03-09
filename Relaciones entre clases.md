@@ -1,0 +1,5 @@
+1. [[Dependencia]]
+2. [[Asociación]]
+3. [[Agregación]]
+4. [[Composición]]
+5. [[Herencia]]

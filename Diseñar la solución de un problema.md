@@ -1,0 +1,1 @@
+Nos encargaremos de desarrollar y codificar, realizar el diseño arquitectónico y el de bajo nivel, además de validar y verificar el producto, incluyendo testing.

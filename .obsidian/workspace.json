@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "a06e59e8c17f5464",
+    "type": "split",
+    "children": [
+      {
+        "id": "560a4f86f89d2aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a2126b3f2f66490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laboratorio 1 teórico DA1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec4b84a950f5d95",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Basura/canvas de prueba.canvas",
+                "viewState": {
+                  "x": 40.5,
+                  "y": -65.5,
+                  "zoom": -1.1059289869164968
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc005be8f31585bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "370f4c9f3b6d36db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac937f8de7776db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63879ab37662ace2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43626c9c2b30778b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "94ebbe6e5590d303",
+    "type": "split",
+    "children": [
+      {
+        "id": "061e7085fa99b2ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d62a8815c0a6a61f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basura/canvas de prueba.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "696c2bb17b609732",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basura/canvas de prueba.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44970f6a6969d9fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed313a4ff712ac9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basura/canvas de prueba.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ec4b84a950f5d95",
+  "lastOpenFiles": [
+    "Laboratorio 1 teórico DA1.md",
+    "Basura/canvas de prueba.canvas",
+    "Horarios del semestre.md",
+    "Objeto.md",
+    "Proceso de software.md",
+    "Programación orientada a objetos.md",
+    "Relaciones entre clases.md",
+    "Resolver conflictos de la manera correcta.md",
+    "Notas a terminar/Notas a terminar.md",
+    "Adornos en UML.md",
+    "Pendientes/Pendientes.md",
+    "Diferencia entre identidad de un objeto y la igualdad de dos objetos.md",
+    "Clase.md",
+    "Clase de representación en UML.md",
+    "Imágenes",
+    "Imágenes/Clase de representación en UML.png",
+    "Definición de modelo.md",
+    "Ciclo de vida del software.md",
+    "Diferencia entre análisis y diseño.md",
+    "Analizar un problema.md",
+    "Diseñar la solución de un problema.md",
+    "Ciclo de vida iterativo e incremental.md",
+    "Ciclo de vida en cascada.md",
+    "Notas a terminar",
+    "Pendientes",
+    "Basura",
+    "Canvas de prueba.canvas",
+    "2023-03-09.md"
+  ]
+}
