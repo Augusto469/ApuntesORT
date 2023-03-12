@@ -1,0 +1,1 @@
+Tiene como objetivo interconectar distinta aplicaciones. El intercambio de datos se realiza mediante mensajes que siguen una cierta estructura.

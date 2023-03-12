@@ -4,59 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "560a4f86f89d2aad",
+        "id": "7e91bb807994e39a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2126b3f2f66490",
+            "id": "ba6c0289fe7b32ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Laboratorio 1 teórico DA1.md",
+                "file": "Notas/Redes MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ec4b84a950f5d95",
+            "id": "3eda0228ff88cef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Resolver conflictos de la manera correcta.md",
+                "file": "Notas/Capa de aplicación.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0ef89fdef533f575",
+            "id": "cb517343f78f9cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Relaciones entre clases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "516b944f527c9558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Resolver conflictos de la manera correcta.md",
+                "file": "Notas a terminar/Notas a terminar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 246.5
   },
   "right": {
     "id": "94ebbe6e5590d303",
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Resolver conflictos de la manera correcta.md",
+                "file": "Notas/Redes MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Resolver conflictos de la manera correcta.md",
+                "file": "Notas/Redes MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Resolver conflictos de la manera correcta.md"
+                "file": "Notas/Redes MOC.md"
               }
             }
           }
@@ -183,37 +170,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac937f8de7776db4",
+  "active": "ba6c0289fe7b32ee",
   "lastOpenFiles": [
+    "Notas/Modelo OSI.md",
+    "Notas/Redes MOC.md",
     "README.md",
-    "Notas/Relaciones entre clases.md",
+    "Notas/Protocolo.md",
+    "Notas/Modelo de capas.md",
+    "Notas/Capa de aplicación.md",
+    "Notas a terminar/Notas a terminar.md",
+    "Notas/Ciclo de vida en cascada.md",
+    "Notas/Ciclo de vida del software.md",
+    "Notas/Analizar un problema.md",
+    "Notas/Adornos en UML.md",
+    "Untitled.canvas",
+    "Notas/Capa física.md",
+    "Notas/Capa de enlace.md",
+    "Notas/Capa de red.md",
+    "Notas/Capa de transporte.md",
+    "Notas/Capa de sesión.md",
+    "Notas/Capa de presentación.md",
+    "Notas/Diseño de aplicaciones MOC.md",
+    "Notas/Laboratorio 1 teórico DA1.md",
+    "Notas/Clase.md",
+    "Notas/Proceso de software.md",
     "Notas/Resolver conflictos de la manera correcta.md",
+    "Notas/Relaciones entre clases.md",
+    "English notes/Tips (english).md",
+    "English notes",
     "Basura/canvas de prueba.canvas",
     "Notas",
-    "Notas/Laboratorio 1 teórico DA1.md",
     "Notas/Horarios del semestre.md",
     "Notas/Objeto.md",
-    "Notas/Proceso de software.md",
-    "Notas/Programación orientada a objetos.md",
-    "Notas a terminar/Notas a terminar.md",
-    "Notas/Adornos en UML.md",
-    "Pendientes/Pendientes.md",
-    "Notas/Diferencia entre identidad de un objeto y la igualdad de dos objetos.md",
-    "Notas/Clase.md",
-    "Notas/Clase de representación en UML.md",
     "Imágenes",
     "Imágenes/Clase de representación en UML.png",
-    "Notas/Definición de modelo.md",
-    "Notas/Ciclo de vida del software.md",
-    "Notas/Diferencia entre análisis y diseño.md",
-    "Notas/Analizar un problema.md",
-    "Notas/Diseñar la solución de un problema.md",
-    "Notas/Ciclo de vida iterativo e incremental.md",
-    "Notas/Ciclo de vida en cascada.md",
     "Notas a terminar",
     "Pendientes",
     "Basura",
-    "Canvas de prueba.canvas",
-    "2023-03-09.md"
+    "Canvas de prueba.canvas"
   ]
 }

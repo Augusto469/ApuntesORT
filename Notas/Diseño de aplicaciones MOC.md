@@ -1,0 +1,8 @@
+- [[Programación orientada a objetos]]
+- [[Definición de modelo]]
+- [[Proceso de software]]
+- [[Diferencia entre análisis y diseño]]
+- [[Resolver conflictos de la manera correcta]]
+- [[Clase de representación en UML]]
+- [[Relaciones entre clases]]
+- 

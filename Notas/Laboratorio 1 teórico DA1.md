@@ -1,3 +1,5 @@
+Links: [[Diseño de aplicaciones MOC]]
+
 **Tips:** cuando hagamos merge vamos a querer hacerlo sin [[fast forward]], por lo que escribiremos `git merge --no-ff`
 
 Utilizaremos la metodología [[gitflow]] y es muy recomendable comenzar con el obligatorio apenas esté disponible la letra, porque es muy extenso.
