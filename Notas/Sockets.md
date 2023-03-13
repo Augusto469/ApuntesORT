@@ -1,4 +1,4 @@
-Son ternas de información que permiten el diálogo cliente-servidor sin que los datos se entreveren, están compuestos por un [[puerto]], un [[protocolo de transporte]] y una [[dirección IP]].
+Son ternas de información que permiten el diálogo cliente-servidor sin que los datos se entreveren, están compuestos por un [[Puerto]], un [[Protocolo de transporte]] y una [[Dirección IP]].
 
 >[!info] Uno podría preguntarse: ¿cómo pueden entreverarse los datos?
 >El profe propuso el siguiente ejemplo: una pantalla en la que quiero mostrar dos ventanas distintas, pero le pido al mismo servidor los datos.

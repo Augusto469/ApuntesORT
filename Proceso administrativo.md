@@ -1,0 +1,1 @@
+**Definición:** los procesos están formados de tareas organizadas de manera lógica.

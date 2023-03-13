@@ -1,0 +1,1 @@
+El objetivo de una empresa guía el accionar de las personas.

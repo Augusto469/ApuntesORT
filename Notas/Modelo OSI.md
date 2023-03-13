@@ -10,4 +10,4 @@ Esta clase de modelo divide las tareas de un equipo en **siete capas**:
 
 ## ¿Cómo se comunican las capas?
 
-La comunicación entre capas de un mismo dispositivo sucede mediante una [[interfaz]].
+La comunicación entre capas de un mismo dispositivo sucede mediante una [[Interfaz]].

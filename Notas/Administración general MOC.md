@@ -1,0 +1,15 @@
+Datos del profesor: marcelo.gambeta@fi365.ort.edu.uy
+
+[[Matriz de decisión]]
+[[Proceso administrativo]]
+[[Concepto de empresa]]
+[[Tipos de productos]]
+[[Agregación de valor]]
+[[Precio]]
+[[Costo]]
+[[Sistema de creencias: misión, visión y valores centrales]]
+[[Los objetivos deben ser SMART]]
+[[Marketing mix]]
+[[Modelo de negocio]]
+[[Responsabilidad social y empresarial]]
+[[Procesos de negocios]]
