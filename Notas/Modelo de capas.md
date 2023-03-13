@@ -11,13 +11,3 @@ Al mismo tiempo, ISO (International Standard Organization) desarrolló el [[Mode
 >- Mientras todo esto sucedía, comenzó a crearse internet.
 >- Tanenbaum pensó el modelo de capas de forma Bottom-Up.
 >- Kurose y Ross pensaron el modelo de capas de forma Top-Down.
-
-El modelo divide las tareas de un equipo en **siete capas**:
-
-7. [[Capa de aplicación]]
-6. [[Capa de presentación]]
-5. [[Capa de sesión]]
-4. [[Capa de transporte]]
-3. [[Capa de red]]
-2. [[Capa de enlace]]
-1. [[Capa física]]

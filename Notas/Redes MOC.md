@@ -1,6 +1,8 @@
 Datos del profesor de Redes, quinto semestre: alvaro.sanchez@ort.edu.uy
 
 - [[Modelo de capas]]
+- [[Modelo OSI]]
+- [[Interfaz]]
 - [[Protocolo]]
 - [[Diálogo extremo a extremo]]
 - [[Diálogo entre equipos intermedios]]

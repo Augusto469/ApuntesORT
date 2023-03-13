@@ -1,0 +1,1 @@
+Es un número que cada máquina tiene, es utilizado como identificador porque es único.

@@ -1,0 +1,1 @@
+Traduce a direcciones IP los URL ingresados.

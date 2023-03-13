@@ -1,0 +1,1 @@
+Permite la conexión del cliente con el servidor (entre muchas otras cosas).
